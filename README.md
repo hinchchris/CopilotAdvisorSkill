@@ -1,0 +1,2 @@
+# CopilotAdvisorSkill
+Skill for Cowork
